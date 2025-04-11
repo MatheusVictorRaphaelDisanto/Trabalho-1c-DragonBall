@@ -1,0 +1,17 @@
+body{
+    background-color: #cccccccc;
+    background-image: url(../img/dragonballbg.png)
+}
+
+section{
+    height: 50vh;
+    width: 100%;
+    background: #ffffff;
+    border-radius: 100px;
+    margin-top: 20vh;
+}
+section ul li{
+    margin-left: 35%;
+    margin-top: -23%;
+ font-size: 1.2em;
+}
